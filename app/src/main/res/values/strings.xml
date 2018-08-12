@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie Hunt</string>
+    <string name="top_rated_name">Top Rated Movies</string>
+    <string name="popular_name">Popular Movies</string>
+    <string name="movie_info">Movie Info</string>
+    <string name="overview">Overview</string>
+    <string name="trailers">Trailers</string>
+    <string name="max_note">/10</string>
+</resources>
